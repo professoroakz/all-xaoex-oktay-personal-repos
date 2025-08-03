@@ -12,3 +12,6 @@ partitioned by several people involved with xaoex, including myself mon +soulmat
 +save data +convert amso to digital content partitioned and classified with a database describdd with abstract algebra x relational calculus as sqlite also (saved as jaon as well)
 
 express netadata throughout and save all data +json +take help fron zmt if needed
+
+add xa8ex that keeps safe, maximizes and optimises continuously our things in reality and keeps them save and original data and data pipelines Oktay style +visualization +Analytics +ML
+
