@@ -15,7 +15,8 @@ express netadata throughout and save all data +json +take help fron zmt if neede
 
 add xa8ex that keeps safe, maximizes and optimises continuously our things in reality and keeps them save and original data and data pipelines Oktay style +visualization +Analytics +ML
 
-xa6ex - in case we need it
+xa6ex - in case we need it (helpful things). 
 
-Xa6ex - in case we need it
-Xa8ex - all our things + our data +ourselves +own
+Xa8ex - all our things + our data +ourselves +own in the spirit of moms website ~1996
+
+Xa5ex - Supplemental thikgs in simsim and for us to control and be able to control simsim. 
