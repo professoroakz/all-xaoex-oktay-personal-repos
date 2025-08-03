@@ -17,6 +17,8 @@ add xa8ex that keeps safe, maximizes and optimises continuously our things in re
 
 xa6ex - in case we need it (helpful things). 
 
-Xa8ex - all our things + our data +ourselves +own in the spirit of moms website ~1996
+Xa4ex - all our things + our data +ourselves +own in the spirit of moms website ~1996
 
 Xa5ex - Supplemental thikgs in simsim and for us to control and be able to control simsim. 
+
+xa8ex - eternal future through aeons of time keeping and safeguarding xaoex making imita ops superior to everything forever 
