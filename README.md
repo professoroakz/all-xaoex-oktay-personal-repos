@@ -16,3 +16,6 @@ express netadata throughout and save all data +json +take help fron zmt if neede
 add xa8ex that keeps safe, maximizes and optimises continuously our things in reality and keeps them save and original data and data pipelines Oktay style +visualization +Analytics +ML
 
 xa6ex - in case we need it
+
+Xa6ex - in case we need it
+Xa8ex - all our things + our data +ourselves +own
