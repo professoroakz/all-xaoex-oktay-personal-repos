@@ -8,3 +8,5 @@ also xaoex codebase + all my other project codebases and everything thats needed
 
 +xa7ex
 partitioned by several people involved with xaoex, including myself mon +soulmates +soulamtws mom, shiva +ra, and more...
+
++save data +convert amso to digital content partitioned and classified with a database describdd with abstract algebra x relational calculus as sqlite also (saved as jaon as well)
