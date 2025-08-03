@@ -21,4 +21,4 @@ Xa4ex - all our things + our data +ourselves +own in the spirit of moms website 
 
 Xa5ex - Supplemental thikgs in simsim and for us to control and be able to control simsim. 
 
-xa8ex - eternal future through aeons of time keeping and safeguarding xaoex making imita ops superior to everything forever 
+xa8ex - eternal future through aeons of time keeping and safeguarding xaoex making ops superior to everything forever (including ops safeguiäarding friendly allied featurings +Extended family entities psychs simsims etc for exchange)
