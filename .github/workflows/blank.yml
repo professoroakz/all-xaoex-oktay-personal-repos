@@ -40,6 +40,7 @@ jobs:
           ./xa8ex-pipelines
           ./xa8ex-codebases
           ./xa1ex
+          ./xa0ex
 
           % fredrik + antons powerhouse
           
