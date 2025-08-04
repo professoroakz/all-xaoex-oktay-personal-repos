@@ -25,3 +25,5 @@ Xa5ex - Supplemental thikgs in simsim and for us to control and be able to contr
 xa8ex - eternal future through aeons of time keeping and safeguarding xaoex making ops superior to everything forever (including ops safeguiäarding friendly allied featurings +Extended family entities psychs simsims etc for exchange)
 
 xaCADex - blueprint plus prototype plus enterprise of everything
+
+xaCHILDex- children of fellows of xaoex and a solution for parents/grandprants flr example oktay/helena/camilla
