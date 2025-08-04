@@ -36,4 +36,8 @@ jobs:
           ./xaoex
           ./xa(0-9)ex
 
-          
+          % fred + antons ops/powerhouse 
+          ./laoel-alpha-test
+
+          % other ops/powerhouses (use ml for other friends calculate max number of friends +hold)
+          ./vaoev-test
