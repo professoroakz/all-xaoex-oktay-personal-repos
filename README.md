@@ -27,3 +27,5 @@ xa8ex - eternal future through aeons of time keeping and safeguarding xaoex maki
 xaCADex - blueprint plus prototype plus enterprise of everything
 
 xaCHILDex- children of fellows of xaoex and a solution for parents/grandprants flr example oktay/helena/camilla
+
+xaIex - Internet +VPN +proxy +NextDns +Other +Xrpyto +Mail +Paymentsk
