@@ -33,9 +33,7 @@ jobs:
         run: |
           echo Actions to build,
           echo test, and deploy your project.
-          ./xa7ex-build-test-deploy
-          ./xa7ex-pipelines
-          ./xa7ex-codebases
-          ./xa8ex
-          ./xa8ex-pipelines
-          ./xa8ex-codebases
+          ./xaoex
+          ./xa(0-9)ex
+
+          
