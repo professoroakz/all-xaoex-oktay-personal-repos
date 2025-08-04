@@ -33,11 +33,11 @@ jobs:
         run: |
           echo Actions to build,
           echo test, and deploy your project.
-          ./xaoex
-          ./xa(0-9)ex
+          ./xaoex % field ops
+          ./xa(0-9)ex % only the ones actually using
 
           % fred + antons ops/powerhouse 
           ./laoel-alpha-test
 
           % other ops/powerhouses (use ml for other friends calculate max number of friends +hold)
-          ./vaoev-test
+          ./vaoev-alpha-test
