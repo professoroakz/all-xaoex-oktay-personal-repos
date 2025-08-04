@@ -6,21 +6,22 @@ also xaoex codebase + all my other project codebases and everything thats needed
 
 +Add-ons +Supplements +discettes +programs +flies +lifts +all-around things 
 
-+xa7ex
-partitioned by several people involved with xaoex, including myself mon +soulmates +soulamtws mom, shiva +ra, and more...
++xa7ex - divine perfect situation for holding our things earned etc in reality
+ops for several people involved with xaoex, including myself mom +soulmates +soulamtws mom
 
 +save data +convert amso to digital content partitioned and classified with a database describdd with abstract algebra x relational calculus as sqlite also (saved as jaon as well)
 
-express netadata throughout and save all data +json +take help fron zmt if needed
+express metadata throughout and save all data +json +take help fron zmt if needed
 
-add xa8ex that keeps safe, maximizes and optimises continuously our things in reality and keeps them save and original data and data pipelines Oktay style +visualization +Analytics +ML
+
++attribute that keeps safe, maximizes and optimises continuously our things in reality and keeps them save and original data and data pipelines Oktay style +visualization +Analytics +ML
 
 xa6ex - in case we need it (helpful things). 
 
-Xa4ex - all our things + our data +ourselves +own in the spirit of moms website ~1996
+Xa1337ex - all our things + our data +ourselves +own in the spirit of moms website ~1996 
 
 Xa5ex - Supplemental thikgs in simsim and for us to control and be able to control simsim. 
 
 xa8ex - eternal future through aeons of time keeping and safeguarding xaoex making ops superior to everything forever (including ops safeguiäarding friendly allied featurings +Extended family entities psychs simsims etc for exchange)
 
-xaCADex - blueprint plus prototype plus enterprise of everything 
+xaCADex - blueprint plus prototype plus enterprise of everything
