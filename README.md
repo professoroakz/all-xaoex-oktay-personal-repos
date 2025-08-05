@@ -6,6 +6,9 @@ also xaoex codebase + all my other project codebases and everything thats needed
 
 +Add-ons +Supplements +discettes +programs +flies +lifts +all-around things 
 
+---------
+Work in progress of defitions of xa(A-Za-z0-9)ex
+
 +xa7ex - divine perfect situation for holding our things earned etc in reality
 ops for several people involved with xaoex, including myself mom +soulmates +soulamtws mom
 
